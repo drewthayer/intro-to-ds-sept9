@@ -32,12 +32,6 @@ Desire to learn.  Readiness to make mistakes and fail forward. Willingness to le
 * See the [Installation Guide](/introduction)
 * If you have trouble with installation, we will assist on the first day.
 
-### Weekly Agenda:
-
-4 days per week, generally
-
-    Monday, Tuesday, Wednesday, Thursday, 6:00pm PT - 8:00pm PT
-
 ### Adapted Course Outline:
 
 * __Week 1__:

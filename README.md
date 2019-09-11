@@ -44,28 +44,25 @@ Desire to learn.  Readiness to make mistakes and fail forward. Willingness to le
   * __Monday__: Introduction to git, Github, Unix, Downloading software (Anaconda, git, VSCode), simple bash commands
   * __Wednesday__: Intro to Python: numeric operations, variable assignment and scalar types, Simple functions, Intro to Mutability, Control Flow, Lists
       - lectures
-          - day01-git_unix, _intro_to_python.ipynb_
-          - day02-intro_python, _intro_python_lecture.md_
-          - day03-control_flow_lists, _control_flow_lists_lecture.md_
-      - assignment
+          - week1/day01-git_unix, _intro_to_python.ipynb_
+          - week1/day02-intro_python, _intro_python_lecture.md_
+          - week1/day03-control_flow_lists, _control_flow_lists_lecture.md_
+      - assignments
           - _week_1_homework.ipynb_
 
 * __Week 2__:
   * __Monday__: Loops and Accumulators, Strings, Tuples
-      - day04-loops
-          - _loops_lecture.md_
-      - day05-strings_tuples,
+      - lectures
+          - week1/day04-loops, _loops_lecture.md_
+          - week2/day05-strings_tuples, _strings_tuples_lecture.md_
+
   * __Wednesday__: Dictionaries, Sets, FileIO
-      - day06-dictionaries_sets
-      - day08-fileIO 
+      - lectures
+          - week2/day06-dictionaries_sets, _dicts_sets_lecture.md_
+          - week2/day08-fileIO, _fileIO.md_
 
   * __Saturday__: Object-Oriented-Programming lab
-      - day07-OOP_classes
+      - lectures
+          - week2/day07-OOP_classes, _oop_classes.md_
 
 Done with Python Fundamentals! continue with Data Science material
-
-  -----
-  * Monday: Demo your simple program!, Intro to Numpy
-  * Tuesday: the basic ML Workflow
-  * Wednesday: Simple Image Analysis
-  * Thursday: `sklearn`, Summary of what we learned

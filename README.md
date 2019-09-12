@@ -35,7 +35,7 @@ Desire to learn.  Readiness to make mistakes and fail forward. Willingness to le
 ### Adapted Course Outline:
 
 * __Week 1__:
-  * __Monday__: Introduction to git, Github, Unix, Downloading software (Anaconda, git, VSCode), simple bash commands
+  * __Monday__: Introduction to Git, Github, Unix, Downloading software (Anaconda, git, VSCode), simple bash commands
   * __Wednesday__: Intro to Python: numeric operations, variable assignment and scalar types, Simple functions, Intro to Mutability, Control Flow, Lists
       - lectures
           - week1/day01-git_unix, _intro_to_python.ipynb_

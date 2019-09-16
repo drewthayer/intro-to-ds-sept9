@@ -1,24 +1,4 @@
 # Day 4 Lecture Notes
-
-<br><br><br><br>
-## Create and `push` a new branch
-* create your branch using `git checkout -b your_name` in the terminal, in the local folder of your repository
-* make sure you are adding changes to your new branch using `git status`
-* add files to be tracked using `git add filename`
-* commit your changes using `git commit -m 'make a good message'`
-* push those changes to your remote branch using `git push`
-* switch between branches using `git checkout branch_name`
-    * list all branches in the repo using `git branch -a`
-* to synchronize your branch with master
-    * `git checkout master`
-    * `git pull`
-    * `git checkout your_branch_name`
-    * `git merge master`
-* create new folders in the terminal using `mkdir`
-* use `touch` to create new files
-
-
-
 <br><br><br><br><br><br>
 # Loops
 * we can use loops to perform repeated operations and solve numeric problems

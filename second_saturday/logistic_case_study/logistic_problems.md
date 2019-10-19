@@ -39,6 +39,8 @@ __reading the data__
   - when you read this with pandas, pass the argument `delimiter=('\t')` to `pd.read_csv()`
     - '\t' is the character for tab
 
+  - for this exercise, drop the 'fruit_subtype' category
+
 __modeling exercise__
 We're going to try to predict the type of fruit based on its mass, width, height, and color score.
 
@@ -54,6 +56,7 @@ We're going to try to predict the type of fruit based on its mass, width, height
   - It's often interesting to note the difference between train and test accuracy, because it gives you a sense of how _generalizeable_ the model might be, i.e. how it will perform on _unseen_ data (that's the whole point of holding a test set on the side when we train machine learning models).
   - If we're going to report one score, it's the test score.
 9.  Assess the model's accuracy, precision, and recall. Think about what these three scores mean, and scenarios where you would want to optimize recall, or precision (remember that there is generally a tradeoff between the two... you can't increase both).
+  - _NOTE: the recall_score() and precision_score() functions are set up with defaults for binary classification. There is a default parameter `average='binary'`. Since this is a multi-class problem, you will need to pass `average='weighted'` into these functions._
   - fruit-type prediction is obviously pretty trivial, but think about some classic examples, and WHY that metric is usually chosen:
     - high-precision email spam filter
     - high-recall skin cancer test
